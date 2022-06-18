@@ -1,0 +1,29 @@
+Icons:
+
+SearchBar {
+	<MagnifyingGlass size={24} weight="bold" />
+}
+
+Menu { 
+	<House size={24} weight="fill" />
+	<MessengerLogo size={24} weight="bold" />
+	<Plus size={24} weight="bold" />
+	<Compass size={24} weight="bold" />
+	<Heart size={24} weight="bold" />
+}
+
+Post {
+	<ChatCircle size={24} weight="bold" />
+	<Heart size={24} weight="bold" />
+	<PaperPlaneTilt size={24} weight="bold" />
+	<BookmarkSimple size={24} weight="bold" />
+	<DotsThree size={14} weight="bold" />
+	<Smiley size={24} />
+
+	
+
+}
+
+
+Imagens do post: 470x470
+Tamanho da logo: 103x29
